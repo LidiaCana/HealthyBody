@@ -1,0 +1,8 @@
+/* Estilos que intente hacer*/
+.MenuBar {
+  display:flex;
+  color: #c5cae9 !important;
+  margin-right:0.2em;
+}
+
+a:hover {background-color:LightGray; }
